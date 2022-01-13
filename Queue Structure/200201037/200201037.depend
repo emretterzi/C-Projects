@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637613317 source:c:\users\mbilg\desktop\200201037\main.cpp
+	<graphics.h>
+	<stdlib.h>
+	<String.h>
+	<stdio.h>
+
