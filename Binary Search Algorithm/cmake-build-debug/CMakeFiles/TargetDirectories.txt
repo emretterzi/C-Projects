@@ -1,0 +1,3 @@
+/Users/emreterzi/Desktop/Projeler-Karışık/Prolab1-180201087/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/emreterzi/Desktop/Projeler-Karışık/Prolab1-180201087/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emreterzi/Desktop/Projeler-Karışık/Prolab1-180201087/cmake-build-debug/CMakeFiles/emre_real_project.dir
